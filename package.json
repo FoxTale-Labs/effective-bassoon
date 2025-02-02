@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "audio-decode": "^2.2.2",
+    "fft.js": "^4.0.4",
+    "node-web-audio-api": "^1.0.1"
+  },
+  "name": "effective-bassoon",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
